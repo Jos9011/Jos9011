@@ -2,8 +2,8 @@
 
 CURIOSIDADES SOBRE MIM:
 - TRABALHO BEM EM EQUIPE
-- SOU MUITO CURIOSO
 - GOSTO DE CONVESA
+- SOU MUITO CURIOSO
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

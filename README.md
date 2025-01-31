@@ -1,9 +1,9 @@
 ## OLHA PESSOAL, SOU JOSÉ <img align="center" height="90" alt="Rafa-Csharp" src="https://i.pinimg.com/originals/2d/fc/33/2dfc3369827df9b981e111d7fd8fc732.gif">
 
 CURIOSIDADES SOBRE MIM:
-- 👯 TRABALHO BEM EM EQUIPE
-- 🤔 SOU MUITO CURIOSO
-- 💬 GOSTO DE CONVESAR
+- TRABALHO BEM EM EQUIPE
+- SOU MUITO CURIOSO
+- GOSTO DE CONVESA
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

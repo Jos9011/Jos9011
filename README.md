@@ -1,4 +1,4 @@
-## OLHA PESSOAL, SOU JOSÉ <img align="center" height="90" alt="Rafa-Csharp" src="https://i.pinimg.com/originals/2d/fc/33/2dfc3369827df9b981e111d7fd8fc732.gif">
+## OLHA A TODOS, ME CHAMO JOSÉ ANTONIO
 
 CURIOSIDADES SOBRE MIM:
 - TRABALHO BEM EM EQUIPE

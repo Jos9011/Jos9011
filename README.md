@@ -1,9 +1,6 @@
 ## OLHA A TODOS, ME CHAMO JOSÉ ANTONIO
 
-CURIOSIDADES SOBRE MIM:
-- TRABALHO BEM EM EQUIPE
-- GOSTO DE CONVESA
-- SOU MUITO CURIOSO
+ABAIXO SER ENCONTRA O QUE MAIS COSTUMO TRABALHA.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +11,7 @@ CURIOSIDADES SOBRE MIM:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  ## CASO QUEIRA SABE UM POUCO MAIS SOBRE MIM, AQUI ESTÃO MINHA REDE SOCIAS
  
 <div> 
   <a href="https://www.youtube.com/@dominus.j8006" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

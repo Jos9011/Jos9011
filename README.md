@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/901f3034-a80a-4a88-8bd6-6d1c13802c73" /><img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/d830c177-3a64-4b0f-888b-720511c9b29b" />## OLHA A TODOS, ME CHAMO JOSÉ ANTONIO
+## OLHA A TODOS, ME CHAMO JOSÉ ANTONIO
 
 ABAIXO SER ENCONTRA O QUE MAIS COSTUMO TRABALHA.
   
@@ -10,7 +10,7 @@ ABAIXO SER ENCONTRA O QUE MAIS COSTUMO TRABALHA.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/user-attachments/assets/d830c177-3a64-4b0f-888b-720511c9b29b">
 </div>
   
   ## CASO QUEIRA SABE UM POUCO MAIS SOBRE MIM, AQUI ESTÃO MINHA REDE SOCIAS
